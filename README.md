@@ -1,4 +1,4 @@
-##TO DO LIST APPLICATION
+## TO DO LIST APPLICATION
 This application is developed using laravel php web frame work.
 The login and register module is developed using the laravel breeze package giving a rich features of the laravel framework.
 This application is developed using HTML, CSS, PHP, Bootstrap, JavaScript , PHP and Node JS in Blade Template.
