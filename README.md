@@ -24,19 +24,21 @@ The Features of the application are:
     <li>Search feature</li>
 </ul>
 Commands used:
-Project creation - composer create-project laravel/laravel projectname
-Migration  - php artisan migrate
-Controller creation - php artisan make:controller controllername 
-Model creation - php artisan make:model modelname
-Breeze installation - 
-composer require laravel/breeze --dev
-php artisan breeze:install
-php artisan migrate
-npm install
-npm run dev
-To run the application commands - 
-php artisan serve
-npm run dev
+<ul>
+<li>Project creation - composer create-project laravel/laravel projectname</li>
+<li>Migration  - php artisan migrate</li>
+<li>Controller creation - php artisan make:controller controllername</li>
+<li>Model creation - php artisan make:model modelname</li>
+<li>Breeze installation -</li> <br>
+composer require laravel/breeze --dev<br>
+php artisan breeze:install<br>
+php artisan migrate<br>
+npm install<br>
+npm run dev<br>
+<li>To run the application commands - <br>
+php artisan serve<br>
+npm run dev<br>
+</ul>
 Pre-Requisites to install:
 <ul>
     <li>XAMPP</li>
