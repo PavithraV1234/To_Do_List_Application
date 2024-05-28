@@ -1,3 +1,49 @@
+##TO DO LIST APPLICATION
+This application is developed using laravel php web frame work.
+The login and register module is developed using the laravel breeze package giving a rich features of the laravel framework.
+This application is developed using HTML, CSS, PHP, Bootstrap, JavaScript , PHP and Node JS in Blade Template.
+The modules in this application are:
+<ul>
+    <li>Welcome page</li>
+    <li>Login, Register and Forgot Password pages</li>
+    <li>Dashboard - Displays the table of tasks with CRUD operations and has dedicated modules for each operation. Also supports search feature based on Title of the task </li>
+    <li>Categories - Displays the table of Categories with CRD operations listing the title under the category and has dedicated modules for each operation. Also supports search feature based on Category of the task</li>
+</ul>
+This project has three tables mainly involved:
+<ul>
+    <li>Tasks</li>
+    <li>Users</li>
+    <li>Types</li>
+</ul>
+This application also supports sending email for resetting the password of the user and tested through MailTrap web application.
+The Features of the application are:
+<ul>
+    <li>User Authentication</li>
+    <li>Task Management</li>
+    <li>Task Categorization</li>
+    <li>Search feature</li>
+</ul>
+Commands used:
+Project creation - composer create-project laravel/laravel projectname
+Migration  - php artisan migrate
+Controller creation - php artisan make:controller controllername 
+Model creation - php artisan make:model modelname
+Breeze installation - 
+composer require laravel/breeze --dev
+php artisan breeze:install
+php artisan migrate
+npm install
+npm run dev
+To run the application commands - 
+php artisan serve
+npm run dev
+Pre-Requisites to install:
+<ul>
+    <li>XAMPP</li>
+    <li>Composer</li>
+    <li>Git</li>
+    <li>Node JS</li>
+</ul>
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
