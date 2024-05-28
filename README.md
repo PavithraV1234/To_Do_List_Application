@@ -29,7 +29,7 @@ Commands used:
 <li>Migration  - php artisan migrate</li>
 <li>Controller creation - php artisan make:controller controllername</li>
 <li>Model creation - php artisan make:model modelname</li>
-<li>Breeze installation -</li> <br>
+<li>Breeze installation -</li> 
 composer require laravel/breeze --dev<br>
 php artisan breeze:install<br>
 php artisan migrate<br>
