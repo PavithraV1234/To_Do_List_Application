@@ -46,6 +46,20 @@ Pre-Requisites to install:
     <li>Git</li>
     <li>Node JS</li>
 </ul>
+Few sample images of the application are given below
+![pic1](https://github.com/PavithraV1234/To_Do_List_Application/assets/137605674/99bffcbd-6358-4923-a470-ad6e96faf4f5)
+![pic6](https://github.com/PavithraV1234/To_Do_List_Application/assets/137605674/19106eac-117a-4dd3-97c7-6d64f7435cd0)
+![pic7](https://github.com/PavithraV1234/To_Do_List_Application/assets/137605674/d91347c2-45aa-4bae-88e4-be8dad1186e7)
+![pic2](https://github.com/PavithraV1234/To_Do_List_Application/assets/137605674/03a682e7-ab6b-49b8-80ee-6e43e6b88cb3)
+![pic3](https://github.com/PavithraV1234/To_Do_List_Application/assets/137605674/e6ff81aa-341d-4164-9ee5-994aea1640f1)
+![pic4](https://github.com/PavithraV1234/To_Do_List_Application/assets/137605674/5357017d-54e3-4ebc-a0c9-af5e8f90d7ce)
+![pic5](https://github.com/PavithraV1234/To_Do_List_Application/assets/137605674/907328d9-785d-47e0-a596-736ac3f44078)
+
+
+
+
+
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
