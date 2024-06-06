@@ -24,13 +24,7 @@
             {{ __('Dashboard') }}
         </h2>
     </x-slot>
-    @if ($message = Session::get('success'))
-        <div class="alert alert-success">
-            <script>
-            alert("Task Created Successfully");
-            </script>
-        </div>
-    @endif
+    
 <div class="tit">
     <div class="py-12">
         <div class="max-w-7xl mx-auto sm:px-6 lg:px-8">

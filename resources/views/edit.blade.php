@@ -66,7 +66,7 @@
                 <div class="form-check">
                   <input type="radio" class="form-check-input" id="radio2" name="Status" value="Ongoing"
                   <?php
-                    if( $task->Priority =="Ongoing")
+                    if( $task->Status =="Ongoing")
                         echo "checked";
                     
                     ?>>
@@ -75,7 +75,7 @@
                 <div class="form-check">
                   <input type="radio" class="form-check-input" id="radio3" name="Status" value="Completed"
                   <?php
-                    if( $task->Priority =="Completed")
+                    if( $task->Status =="Completed")
                         echo "checked";
                     
                     ?>>

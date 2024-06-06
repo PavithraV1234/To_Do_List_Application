@@ -35,7 +35,7 @@ Route::get('/categories',function(){
     $types=Type::where('UserID',auth()->id())->get();
     return view('categories',['types'=>$types]);
 
-})->name('categories');
+})->middleware(['auth', 'verified'])->name('categories');
 Route::get('/dashboard', function () {
     $tasks=Task::where('UserID',auth()->id())->get();
     return view('dashboard', ['tasks' => $tasks]);
